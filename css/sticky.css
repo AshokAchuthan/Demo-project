@@ -1,0 +1,13 @@
+div{
+    background-color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: sticky;
+    top: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+div p{
+    font-family: 'Josefin Sans', sans-serif;
+}
+*{
+    font-family: 'Lobster', cursive;
+}

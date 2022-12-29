@@ -1,0 +1,36 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: darkred;
+}
+
+
+
+
+/* id selector */
+
+
+#he{
+    color: aqua;
+}
+
+/* class selector */
+
+.mm{
+    color: brown;
+}
+
+/* universal selector */
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+*{
+    text-align: center;
+}
+
+/* grouping selcetor */
+
+h3,h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

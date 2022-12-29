@@ -1,0 +1,48 @@
+.row{
+    background-color: mediumspringgreen;
+    height: 500px;
+    width: 500px;
+    position: relative;
+}
+.col1{
+    background-color: firebrick;
+    width: 100px;
+    height: 200px;
+    border: 3px dotted;
+    margin: 10px;
+    position: absolute;
+    
+}
+
+.col2{
+    background-color: rgba(44, 79, 236, 0.226);
+    width: 100px;
+    height: 200px;
+    border: 3px dotted;
+    margin: 10px;
+    position: absolute;
+    left: 150px;
+    
+}
+
+.col3{
+    background-color: rgba(243, 90, 210, 0.541);
+    width: 100px;
+    height: 200px;
+    border: 3px dotted;
+    margin: 10px;
+    position: absolute;
+    left: 300px;
+    
+}
+
+.col4{
+    background-color: firebrick;
+    width: 100px;
+    height: 200px;
+    border: 3px dotted;
+    margin: 10px;
+    position: absolute;
+    top: 250px;
+    
+}

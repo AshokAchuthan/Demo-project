@@ -1,0 +1,32 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 5px 6px 7px;
+    color: olive;
+    background-color:black;
+
+    
+}
+img{
+    border-radius: 50%;
+    border: dotted;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    text-shadow: 5px 6px 7px;
+}
+
+#arb{
+    border: 10px ridge rgb(120, 120, 238);
+    background-color: rgb(20, 235, 56);
+    width: 300px;height: 400px;
+    border-radius: 20px 20px 20px 20px;
+    float: right;
+}
+body{
+    background-color:grey;
+}
+
+div{
+    box-shadow: 5px 6px 7px;
+}

@@ -1,0 +1,18 @@
+.row{
+    background-color: brown;
+    margin: 6px;
+    align-self: baseline;
+    justify-content: space-around;
+    font-style: oblique;
+    font-size: xx-large;
+    display: flex;
+    padding: 20px;
+}
+.col1{
+    background-color: rgb(184, 108, 255);
+    height: 200px;
+    width: 100px;
+    border-radius:30%;text-align: center;
+    border:10px ridge green;
+    b
+}

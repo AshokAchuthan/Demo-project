@@ -1,0 +1,11 @@
+body{
+     background-image: url('https://images.pexels.com/photos/132340/pexels-photo-132340.jpeg?cs=srgb&dl=pexels-burak-the-weekender-132340.jpg&fm=jpg') ; 
+     background-size: cover; 
+    
+    
+}
+.col3{
+    background-image: linear-gradient(to right red green blue);
+    height: 300px;
+    width: 300px;
+}
